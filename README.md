@@ -3,4 +3,4 @@
     <h2>/// HSI Protector System</h2>
 </div>
 
-*Aligning code from BloxLink Docs: See here https://raw.githubusercontent.com/bloxlink/docs/master/README.md*
+Aligning code from BloxLink Docs: See here https://raw.githubusercontent.com/bloxlink/docs/master/README.md
